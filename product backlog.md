@@ -11,6 +11,13 @@ Projektet består av tre sprintar på 5 arbetsdagar var.
 5. Det ska gå att öppna ett obegränsat antal fönster
 6. Fönster ska vara lite snett förskjutna neråt och åt höger
 7. Klickar man på ett ofokuserat fönster ska det fokuseras och flyttas längst fram
+8. Fönster ska gå att maximera med en knapp så att de fyller hela arbetsytan
+9. Fönster ska ha en meny där program kan lägga in alternativ
+1. Fönster ska gå att flytta
+2. Fönster ska inte gå att flytta utanför arbetsytan
+3. Fönster ska gå att andra storlek på
+4. Fönster ska gå att minimera
+5. I koden ska storleken på skrivbordsytan kunna ställas in
 
 ## B. Bildvisare
 1. Ett antal bilder som hämtas via ajax ska visas
@@ -23,9 +30,21 @@ Projektet består av tre sprintar på 5 arbetsdagar var.
 2. HTML koden som kommer tillbaka ska stilas med CSS för att passa in
 3. Om laddningen dröjer ska en laddsymbol visas
 4. Olika RSS flöden ska kunna laddas
+5. I menyn ska det gå att välja uppdateringsintervall, källa och tvångsuppdatering
+6. Det ska framgå i statusfältet när senaste uppdateringen var
 
 ## D. Memory
-1. Memoryt från en tidigare lab ska läggas in
+1. Memoryt från en tidigare labb ska läggas in
+2. I menyn ska det gå att starta om samt ställa in antal brickor
+
+## E. Labby Mezzage
+1. Labby Message från en tidigare labb ska läggas in
+2. Meddelanden ska skrivas och hämtas till server
+3. Det ska framgå vem som skrivit meddelandet
+4. Ny meddelanden ska hämtas automatiskt
+5. I menyn ska det gå att ställa in uppdateringsintervall, hur många meddelanden som ska visas, alias samt tvångsuppdatering
+6. Inställningarna ska sparas i webbläsaren
+7. Ska stilas med CSS för att passa in
 
 ## Prioritering
 <table>
